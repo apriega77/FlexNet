@@ -23,3 +23,4 @@ dependencyResolutionManagement {
 rootProject.name = "flexnet"
 include(":app")
 include(":debug-mode")
+include(":noop-mode")
